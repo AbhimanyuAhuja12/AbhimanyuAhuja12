@@ -47,13 +47,56 @@
 - Cloud-native architectures and microservices
   
 
-## 📊 GitHub Stats
+## 📊 Some Cool Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyuahuja12&layout=compact&theme=radical)](https://github.com/abhimanyuahuja12)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAhuja12&layout=compact&theme=dark" width="48%"/>
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhimanyuAhuja12&theme=dark" width="48%"/>
+</a>
+
 
 
 
 <br clear="both">
+
+
+
+
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhimanyuAhuja12&theme=dark" width="98%"/>
+</a>
+
+<br clear="both">
+
+<br clear="both">
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhimanyuAhuja12&theme=dark" width="48%"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAhuja12&show_icons=true&theme=dark" width="48%"/>
+</a>
+
+<br clear="both">
+
+<br clear="both">
+
+
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhimanyuAhuja12&theme=dark" width="98%"/>
+</a>
+
+
+
+
+
 
 
 ---
