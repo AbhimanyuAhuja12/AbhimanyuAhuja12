@@ -59,6 +59,8 @@
 </a>
 
 
+<br clear="both">
+
 
 
 <br clear="both">
@@ -75,17 +77,11 @@
 
 <br clear="both">
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhimanyuAhuja12&theme=dark" width="48%"/>
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAhuja12&show_icons=true&theme=dark" width="48%"/>
-</a>
 
-<br clear="both">
 
-<br clear="both">
+
+
 
 
 
