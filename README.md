@@ -90,8 +90,11 @@
 </a>
 
 ### 🐍 Contribution Graph
-![GitHub Snake Contribution](https://raw.githubusercontent.com/AbhimanyuAhuja12/AbhimanyuAhuja12/output/snake.svg)
-
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/AbhimanyuAhuja12/AbhimanyuAhuja12/blob/output/github-snake-dark.svg)
+</div>
 
 
 
