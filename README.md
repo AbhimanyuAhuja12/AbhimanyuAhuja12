@@ -1,107 +1,59 @@
-# 👋 Hi there, I'm Abhimanyu Ahuja
+<div align="center" style="width:100%">
 
-[![GitHub followers](https://img.shields.io/github/followers/abhimanyuahuja12?label=Follow&style=social)](https://github.com/abhimanyuahuja12)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhimanyuahuja/)](https://www.linkedin.com/in/abhimanyuahuja/)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/abhimanyuahuja12)](https://x.com/abhimanyuahuja12)
+  <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=180&section=header&fontSize=30&text=Abhimanyu+Ahuja&fontColor=fff&animation=twinkling&fontAlignY=35" style="width: 100%;"/>
+  </div>
 
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&width=435&lines=Full+Stack+Developer;Software+Developer;Exprience+in+Devops;" alt="Typing SVG" /></a>
+  </div>
 
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"> 
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" target="_blank">
+  </div>
 
-### 🌱 Currently Exploring
-- **Next.js** and **Backend Frameworks**
+  ---
+ 
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhimanyuAhuja12&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=9D70FF&icon_color=BB9AF7&text_color=CDD6F4&border_color=7E5BEF&border_radius=15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAhuja12&layout=donut&theme=dracula&bg_color=1e1e2e&title_color=9D70FF&text_color=CDD6F4&border_color=7E5BEF&border_radius=15"/>
+  </div>
 
-## 🛠 Skills
+  ---
+ 
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 600px; margin: 0 auto;">
+    </picture>
+  </div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+  ---
 
-## 🔭 Current Projects
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhimanyuAhuja12&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=9d4edd&line=9d4edd&point=ffffff" style="width: 100%; max-width: 800px;"/>
+  </div>
 
-1. **SmartHire-AI Interviewer**: AI-powered interview platform automating the initial recruitment process.
-   - Technologies: Flask, AWS, IBM Watson, MySQL, Python
-   
-2. **CinemaQuest**: A movie recommendation app with intelligent search.
-   - Technologies: ReactJS, OpenAI API, TailwindCSS, Firebase, Redux
-
-3. **Quick Bite**: A Swiggy-inspired app with live restaurant data.
-   - Technologies: ReactJS, Firebase, Redux, Swiggy Live API
-
-## 🌱 I'm currently learning
-
-- Scaling web applications for high performance
-- Building advanced AI applications
-- Cloud-native architectures and microservices
-  
-
-## 📊 Some Cool Stats
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanyuAhuja12&layout=compact&theme=dark" width="48%"/>
-</a>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhimanyuAhuja12&theme=dark" width="48%"/>
-</a>
+  ---
 
 
-<br clear="both">
-
-
-
-<br clear="both">
-
-
-
-
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhimanyuAhuja12&theme=dark" width="98%"/>
-</a>
-
-<br clear="both">
-
-<br clear="both">
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhimanyuAhuja12&theme=dark" width="98%"/>
-</a>
-
-### 🐍 Contribution Graph
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/AbhimanyuAhuja12/AbhimanyuAhuja12/blob/output/github-snake-dark.svg)
+  <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=120&section=footer&fontSize=90" style="width: 100%;"/>
+  </div>
 </div>
-
-
-
-
-
-
-
----
-
-⭐️ From [Abhimanyu Ahuja](https://github.com/abhimanyuahuja12)
